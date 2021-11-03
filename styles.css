@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+footer {
+    margin-top: 25px;
+}
+
+li {
+    padding-bottom: 5px;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+    font-size: large;
+    font-family: monospace;
+}
+
+#sources {
+    border: 1px solid black;
+}
+
+h2.subtitle {
+    font-family: serif;
+}
+
+#theMoney {
+    margin-left: 75px;
+}
